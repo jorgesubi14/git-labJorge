@@ -4,5 +4,6 @@ public class Drinks {
         System.out.println("Coffee - $2.50");
         System.out.println("Orange Juice - $3.00");
         System.out.println("Lemonade - $3.50");
+        System.out.println("Colacao - $1.50");
     }
 }
